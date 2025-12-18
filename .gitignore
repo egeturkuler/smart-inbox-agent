@@ -1,0 +1,11 @@
+# Secrets (NEVER PUSH THESE)
+credentials.json
+token.json
+client_secret.json
+
+# Python junk
+__pycache__/
+*.pyc
+env/
+venv/
+.env
